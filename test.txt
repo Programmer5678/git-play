@@ -1,3 +1,10 @@
 test
 yummy
+<<<<<<< HEAD
 problems 
+=======
+hehe
+>>>>>>> 3f4764463e12df789fe807f90d283108d692674f
+
+
+THIS IS THE MERGED FILE
